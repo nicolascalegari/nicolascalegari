@@ -8,16 +8,6 @@ Estou constantemente aprendendo e aprimorando meus conhecimentos em programaçã
 
 <br>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascalegari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascalegari&layout=compact&langs_count=7&theme=dark"/>
-
-    <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
-
-<br>
-
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://judge.beecrowd.com/pt/profile/1272344" target="_blank"><img src="https://img.shields.io/badge/Beecrowd-1E1E1E?style=for-the-badge&logoColor=white%22%20alt=%22Beecrowd%22" target="_blank"></a>
